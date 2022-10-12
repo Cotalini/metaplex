@@ -1,6 +1,6 @@
 # Metaplex wallet checker
 
-##Checks for wallet by seed phrase
+## Checks for wallet by seed phrase
 
 ##### To run script:
 ```

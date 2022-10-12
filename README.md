@@ -4,7 +4,6 @@
 
 ##### To run script:
 ```
-npm start
-or 
-node index
+1. npm install
+2. npm start
 ```
